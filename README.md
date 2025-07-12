@@ -1,20 +1,13 @@
-## Hi there 👋
-I'm Chaoyue Ni, 
-* 🧑‍🎓M.Sc. in Project Management, [Nanyang Technological University](https://www.ntu.edu.sg)  
-* 🧑‍🎓B.Sc. in Information Technology, [Luebeck University of Applied Sciences](https://www.th-luebeck.de)
-* 🧑‍🎓B.Eng. in Electrical Engineering and Automation, [East China University of Science and Technology](https://www.ecust.edu.cn)
 * 💪Python /  
 * 📧Email me at -> nichaoyue73@gmail.com
 * 👣Find me at -> LinkedIn: [Chaoyue Ni](https://www.linkedin.com/in/chaoyue-ni/)
 # Hi there 👋 I'm Chaoyue NI
 
-一位充满激情的 **AI 工程师 | 计算机视觉研究员**，来自 **[你的城市/国家，例如：德国吕贝克]**，我对 **利用人工智能解决实际问题，尤其是在目标检测和环境监测领域** 抱有浓厚兴趣。
+### 📚 About Me
 
----
-
-### 📚 关于我 (About Me)
-
-* 🎓 我是 **[你的大学名称，例如：卢贝克应用科技大学 (Technical University of Applied Sciences Lübeck)]** **电气工程与计算机科学系**的 **学士 (B.Sc.)** 毕业生。
+* 🎓 M.Sc. in Project Management, [Nanyang Technological University](https://www.ntu.edu.sg)
+* 🎓 B.Sc. in Information Technology, [Luebeck University of Applied Sciences](https://www.th-luebeck.de)
+* 🎓 B.Eng. in Electrical Engineering and Automation, [East China University of Science and Technology](https://www.ecust.edu.cn)
 * 🔭 我的近期研究主要集中在**开发和优化用于图像中动物检测与计数的AI系统**，这对生物多样性保护至关重要。
 * 💡 我热衷于**运用深度学习解决复杂的计算机视觉难题**，并专注于其效率和实际应用。
 * 🚀 始终渴望**探索前沿模型（例如：Transformer在视觉领域的应用）**，并将其应用于具有挑战性的数据集，如野生动物监控数据。
