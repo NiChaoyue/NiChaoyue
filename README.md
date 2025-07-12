@@ -36,9 +36,3 @@
 
 
 
-**记住：**
-
-* 将所有 `[方括号中的内容]` 替换为你的真实信息。
-* 如果你有顶部 Banner 图片，将 `https://example.com/your-awesome-banner.png` 替换为图片的实际URL。
-* 徽章的图标和颜色可以在 [Shields.io](https://shields.io/) 或 [Devicon](https://devicon.dev/) 找到更多选择。
-* 根据你的实际技能和经验增删技术栈列表。
