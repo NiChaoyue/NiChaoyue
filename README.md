@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ 技术栈与工具 (Tech Stack & Tools)
+### 🛠️ Tech Stack & Tools
 
 | 类别       | 技术                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,10 +28,10 @@
 
 ---
 
-### 📬 联系我 (Connect with Me)
+### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[你的领英个人资料ID])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[你的邮箱地址])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaoyue-ni/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[nichaoyue73@gmail.com])
 ---
 
 
