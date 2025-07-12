@@ -3,6 +3,54 @@ I'm Chaoyue Ni,
 * 🧑‍🎓M.Sc. in Project Management, [Nanyang Technological University](https://www.ntu.edu.sg)  
 * 🧑‍🎓B.Sc. in Information Technology, [Luebeck University of Applied Sciences](https://www.th-luebeck.de)
 * 🧑‍🎓B.Eng. in Electrical Engineering and Automation, [East China University of Science and Technology](https://www.ecust.edu.cn)
-* 💪
+* 💪Python /  
 * 📧Email me at -> nichaoyue73@gmail.com
 * 👣Find me at -> LinkedIn: [Chaoyue Ni](https://www.linkedin.com/in/chaoyue-ni/)
+# Hi there 👋 I'm Chaoyue NI
+
+一位充满激情的 **AI 工程师 | 计算机视觉研究员**，来自 **[你的城市/国家，例如：德国吕贝克]**，我对 **利用人工智能解决实际问题，尤其是在目标检测和环境监测领域** 抱有浓厚兴趣。
+
+---
+
+### 📚 关于我 (About Me)
+
+* 🎓 我是 **[你的大学名称，例如：卢贝克应用科技大学 (Technical University of Applied Sciences Lübeck)]** **电气工程与计算机科学系**的 **学士 (B.Sc.)** 毕业生。
+* 🔭 我的近期研究主要集中在**开发和优化用于图像中动物检测与计数的AI系统**，这对生物多样性保护至关重要。
+* 💡 我热衷于**运用深度学习解决复杂的计算机视觉难题**，并专注于其效率和实际应用。
+* 🚀 始终渴望**探索前沿模型（例如：Transformer在视觉领域的应用）**，并将其应用于具有挑战性的数据集，如野生动物监控数据。
+* 🌱 我在**模型高效部署和 MLOps 实践**方面持续学习和提升。
+* 💬 欢迎与我交流任何关于**目标检测、图像处理或基于AI的野生动物监测**的话题！
+
+---
+
+### 🛠️ 技术栈与工具 (Tech Stack & Tools)
+
+| 类别       | 技术                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **语言** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **框架** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| **机器学习/深度学习** | ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white&colorA=gray&colorB=green) ![Transformers](https://img.shields.io/badge/Transformers-Models-blueviolet?style=for-the-badge&logo=huggingface) ![OpenCV](https://img.shields.io/badge/OpenCV-2962FF?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **工具** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+| **云/运维** | |
+
+---
+
+### 📬 联系我 (Connect with Me)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[你的领英个人资料ID])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[你的邮箱地址])
+---
+
+### 📈 GitHub 统计 (GitHub Stats)
+
+[![Chaoyue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+**记住：**
+
+* 将所有 `[方括号中的内容]` 替换为你的真实信息。
+* 如果你有顶部 Banner 图片，将 `https://example.com/your-awesome-banner.png` 替换为图片的实际URL。
+* 徽章的图标和颜色可以在 [Shields.io](https://shields.io/) 或 [Devicon](https://devicon.dev/) 找到更多选择。
+* 根据你的实际技能和经验增删技术栈列表。
