@@ -15,12 +15,12 @@
 
 ### 🛠️ Tech Stack & Tools
 
-| Class       | Technology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Class       | Technology Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | :--------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **Framework** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
 | **ML/DL** | ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white&colorA=gray&colorB=green) ![Transformers](https://img.shields.io/badge/Transformers-Models-blueviolet?style=for-the-badge&logo=huggingface) ![OpenCV](https://img.shields.io/badge/OpenCV-2962FF?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
