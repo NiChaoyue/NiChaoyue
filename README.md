@@ -5,11 +5,6 @@
 * 🎓 M.Sc. in Project Management, [Nanyang Technological University](https://www.ntu.edu.sg)
 * 🎓 B.Sc. in Information Technology, [Luebeck University of Applied Sciences](https://www.th-luebeck.de)
 * 🎓 B.Eng. in Electrical Engineering and Automation, [East China University of Science and Technology](https://www.ecust.edu.cn)
-* 🔭 我的近期研究主要集中在**开发和优化用于图像中动物检测与计数的AI系统**，这对生物多样性保护至关重要。
-* 💡 我热衷于**运用深度学习解决复杂的计算机视觉难题**，并专注于其效率和实际应用。
-* 🚀 始终渴望**探索前沿模型（例如：Transformer在视觉领域的应用）**，并将其应用于具有挑战性的数据集，如野生动物监控数据。
-* 🌱 我在**模型高效部署和 MLOps 实践**方面持续学习和提升。
-* 💬 欢迎与我交流任何关于**目标检测、图像处理或基于AI的野生动物监测**的话题！
 
 ---
 
